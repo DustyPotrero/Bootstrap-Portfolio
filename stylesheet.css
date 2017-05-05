@@ -1,0 +1,43 @@
+img{
+	margin-right: 10px;
+	width: 200px;
+	height: 230px;
+}
+
+.social img{
+	height: 50px;
+	width: 50px;
+}
+
+.article-content{
+	background-color: white;
+	padding: 20px;
+	border-style: solid;
+    border-color: grey;
+    margin-bottom: 20px;
+}
+.navbar-brand{
+	margin: 0px;
+    background-color: #4aaaa5;
+    color: white !important;
+}
+
+h2{
+	padding-bottom: 10px;
+	border-bottom: 2px solid grey;
+	color: #4aaaa5;
+}
+aside {
+    padding: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: grey;
+    border-image: initial;
+    margin-bottom: 20px;
+}
+footer {
+    background-color: #666666;
+    padding-bottom: 30px;
+    border-top: 10px solid #4aaaa5;
+    font-size: 10px;
+}
